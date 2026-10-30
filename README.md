@@ -347,6 +347,8 @@ git add .
     * [new branch]      master -> master
     branch 'master' set up to track 'origin/master'.
 
+##Y posteriormente el de prueba
+    git push -u origin prueba
 ```
 
 
