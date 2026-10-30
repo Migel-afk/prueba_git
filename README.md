@@ -332,6 +332,20 @@ git add .
     Receiving objects: 100% (20/20), done.
     esolving deltas: 100% (8/8), done.
 
+##Subimos
+    $ git remote add origin https://github.com/Migel-afk/prueba_git.git
+    $ git push -u origin master
+    info: please complete authentication in your browser...
+    Enumerating objects: 27, done.
+    Counting objects: 100% (27/27), done.
+    Delta compression using up to 6 threads
+    Compressing objects: 100% (19/19), done.
+    Writing objects: 100% (27/27), 5.24 KiB | 1.05 MiB/s, done.
+    Total 27 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+    remote: Resolving deltas: 100% (3/3), done.
+    To https://github.com/Migel-afk/prueba_git.git
+    * [new branch]      master -> master
+    branch 'master' set up to track 'origin/master'.
 
 
 
